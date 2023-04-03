@@ -22,12 +22,3 @@ footer{
     text-align: center;
     font-style: italic;
 }
-
-div#res{
-    padding-top: 15px;
-    font-weight: bold;
-}
-
-label{
-    font-weight: bold;
-}
